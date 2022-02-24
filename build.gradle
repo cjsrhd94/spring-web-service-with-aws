@@ -25,6 +25,7 @@ dependencies {
 
 	compileOnly 'org.projectlombok:lombok'
 	compileOnly('org.springframework.boot:spring-boot-starter-mustache')
+	compileOnly('org.springframework.boot:spring-boot-starter-oauth2-client')
 
 	runtimeOnly 'com.h2database:h2'
 
